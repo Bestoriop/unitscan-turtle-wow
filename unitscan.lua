@@ -54,9 +54,9 @@ do
 		if not last_played or GetTime() - last_played > 10 then
 			SetCVar('MasterSoundEffects', 0)
 			SetCVar('MasterSoundEffects', 1)
-			-- PlaySoundFile[[Interface\AddOns\unitscan-turtle-hc\Event_wardrum_ogre.ogg]]
-			-- PlaySoundFile[[Interface\AddOns\unitscan-turtle-hc\scourge_horn.ogg]]
-			PlaySoundFile[[Interface\AddOns\unitscan-turtle-hc\gruntling_horn_bb.ogg]]
+			-- PlaySoundFile[[Interface\AddOns\unitscan-turtle-wow\Event_wardrum_ogre.ogg]]
+			-- PlaySoundFile[[Interface\AddOns\unitscan-turtle-wow\scourge_horn.ogg]]
+			PlaySoundFile[[Interface\AddOns\unitscan-turtle-wow\gruntling_horn_bb.ogg]]
 			last_played = GetTime()
 		end
 	end
