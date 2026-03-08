@@ -1,6 +1,6 @@
 
 
-# UnitScan-Turtle (Hardcore Version)
+# UnitScan-Turtle-WoW
 
 ## Description
 This fork extends [unitscan-turtle](https://github.com/GryllsAddons/unitscan-turtle) by provinding a prepopulated list of rares. This version is especially useful if you're playing Turtle WoW.
