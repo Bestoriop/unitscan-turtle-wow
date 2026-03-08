@@ -1,7 +1,7 @@
 ## Interface: 11200
-## Author: RetroCro
-## Title: unitscan|cff00ff98Turtle-HC
-## Version: 1.0.5
+## Author: Bestoriop
+## Title: unitscan|cff00ff98Turtle-WoW
+## Version: 1.1
 ## Notes: Unit scanner with flashy alert
 ## SavedVariables: unitscan_targets
 unitscan.lua
